@@ -1,0 +1,10 @@
+{
+    "people": [
+      { "id": 1, "floor": "men", "name": "Alex" },
+      { "id": 2, "floor": "women", "name": "Helga"}
+    ],
+    "animals": [
+      { "id": 1, "family": "mammals", "habitat": "Africa" },
+      { "id": 2, "family": "ammians", "habitat": "The Pacific Ocean" }
+    ]
+  }
